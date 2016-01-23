@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TypefaceTextViewExample</string>
+
+    <string name="font">font/fontawesome-webfont.ttf</string>
+    <string name="android">\uf17b</string>
+    <string name="apple">\uf179</string>
+</resources>
